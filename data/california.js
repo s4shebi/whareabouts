@@ -446,18 +446,6 @@ const california = {
         }
     }, {
         'type': 'Feature',
-        'id': 38,
-        'geometry': { 'type': 'Point', 'coordinates': [-118.44816159999999, 34.062461300000052] },
-        'properties': {
-            'OBJECTID': 38,
-            'title': 'CVS',
-            'Address': 'CVS, 1001 westwood blvd., los angeles, ca 90024',
-            'category': 2,
-            'latitude': 34.062461300000002,
-            'longitude': -118.44816160000001
-        }
-    }, {
-        'type': 'Feature',
         'id': 39,
         'geometry': { 'type': 'Point', 'coordinates': [-118.44946819999996, 34.062451200000055] },
         'properties': {

@@ -216,27 +216,27 @@ const arizona = {
             'category': 2,
             'title': 'Dairy Queen Treat'
         }
-    }, {
+    },{
         'type': 'Feature',
         'id': 19,
-        'geometry': { 'type': 'Point', 'coordinates': [-112.37354069999998, 33.436740300000054] },
+        'geometry': { 'type': 'Point', 'coordinates': [-111.8372219, 33.584509] },
         'properties': {
             'OBJECTID': 19,
             'Address': 'ARCO AM/PM- 10809 N. Frank Lloyd Wright Blvd. Scottsdale, AZ 85259',
-            'latitude': 33.436740299999997,
-            'longitude': -112.37354070000001,
+            'latitude': 33.584509,
+            'longitude': -111.8372219,
             'category': 2,
             'title': 'ARCO AM/PM'
         }
     }, {
         'type': 'Feature',
         'id': 20,
-        'geometry': { 'type': 'Point', 'coordinates': [-111.93896599999999, 33.58418370000004] },
+        'geometry': { 'type': 'Point', 'coordinates': [-111.8319765, 33.5844082] },
         'properties': {
             'OBJECTID': 20,
             'Address': 'Mountainside Fitness - 11611 E. Sahuaro Dr. Scottsdale, AZ 85259',
-            'latitude': 33.584183699999997,
-            'longitude': -111.93896599999999,
+            'latitude': 33.5844082,
+            'longitude': -111.8319765,
             'category': 2,
             'title': 'Mountainside Fitness'
         }
